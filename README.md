@@ -1,0 +1,2 @@
+# Bilguunserver
+score yes
